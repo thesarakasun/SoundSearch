@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    padding: 20px;
+    
+  }
+  
+  .logo-container {
+    margin-right: 10px;
+  }
+  
+  .logo {
+    width: 50px;  /* Adjust the size of the logo */
+    height: auto;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 43px;
+  }
+  
+  .bold-title {
+    font-weight: bold;
+  }
